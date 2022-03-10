@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["Test", "bf-pixel", [255, 120, 191]],
+		["Ridge", "dad", [255, 120, 191]],
+		["Smash", "dad", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "",
+
+	"storyName": "extras",
+	"weekBefore": "week6",
+	"weekName": "Extras",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
