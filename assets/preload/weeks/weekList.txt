@@ -1,12 +1,7 @@
 tutorial
-tutoriala
 week1
-week1a
 week2
 week3
 week4
 week5
 week6
-weekextras
-weekfreestyle
-weekog
